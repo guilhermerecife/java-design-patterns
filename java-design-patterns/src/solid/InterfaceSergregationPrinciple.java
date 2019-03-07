@@ -1,4 +1,4 @@
-package SOLID;
+package solid;
 
 /**
  * Recomendação para dividir interface em pequenas interfaces menores. (ISP)

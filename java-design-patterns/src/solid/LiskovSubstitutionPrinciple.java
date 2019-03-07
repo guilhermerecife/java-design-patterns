@@ -1,4 +1,4 @@
-package SOLID;
+package solid;
 
 /**
  * Classes bases devem poder ser substituídas por suas classes derivadas. (LSP)
