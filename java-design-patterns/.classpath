@@ -7,5 +7,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="libs/javatuples-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/reflections-0.9.11.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang3-3.8.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
